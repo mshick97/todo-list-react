@@ -16,7 +16,7 @@
   "homepage": "https://github.com/mshick97/todo-list-react.git",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
