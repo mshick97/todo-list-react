@@ -13,7 +13,7 @@
     "uuid": "^8.3.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/mshick97/todo-list-react",
+  "homepage": "https://mshick97.github.io/todo-list-react/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "master -d build",
